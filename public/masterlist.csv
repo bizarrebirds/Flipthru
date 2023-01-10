@@ -1,0 +1,306 @@
+type,o/n?,source,version,photocard front id,photocard back id,member,release date,year,country,orientation,own vs source
+album,yes,"O!RUL8,2?",,orul82_new_member1,orul82_new_back_member1,RM,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_member2,orul82_new_back_member2,Jin,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_member3,orul82_new_back_member3,Suga,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_member4,orul82_new_back_member4,j-hope,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_member5,orul82_new_back_member5,Jimin,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_member6,orul82_new_back_member6,V,,2013,South Korea,portrait,o
+album,yes,"O!RUL8,2?",,orul82_new_member7,orul82_new_back_member7,Jung Kook,,2013,South Korea,portrait,
+album,yes,"O!RUL8,2?",,orul82_new_group,orul82_new_back_group,Group,,2013,South Korea,landscape,o
+album,yes,Skool Luv Affair,,sla_new_group1,,Group,,2013,South Korea,landscape,o
+album,yes,Skool Luv Affair,,sla_new_group2,,Group,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_member1,,RM,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_member2,,Jin,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_member3,,Suga,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_member4,,j-hope,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_member5,,Jimin,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_member6,,V,,2013,South Korea,portrait,o
+album,yes,Skool Luv Affair,,sla_new_member7,,Jung Kook,,2013,South Korea,portrait,
+album,yes,Skool Luv Affair,,sla_new_group1_member1,,RM and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member1,,RM and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member2,,Jin and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member2,,Jin and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member3,,Suga and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member3,,Suga and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member4,,j-hope and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member4,,j-hope and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member5,,Jimin and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member5,,Jimin and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member6,,V and Group 1,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group2_member6,,V and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair,,sla_new_group1_member7,,Jung Kook and Group 1,,2013,South Korea,landscape,o
+album,yes,Skool Luv Affair,,sla_new_group2_member7,,Jung Kook and Group 2,,2013,South Korea,landscape,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member1,,RM,,2014,South Korea,,o
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member2,,Jin,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member3,,Suga,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member4,,j-hope,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member5,,Jimin,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member6,,V,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_member7,,Jung Kook,,2014,South Korea,,
+album,yes,Skool Luv Affair: Special Addition,,slase_new_group,,Group,,2014,South Korea,,
+album,yes,Dark&Wild,,dw_new_member1,,RM,,2014,South Korea,,
+album,yes,Dark&Wild,,dw_new_member2,,Jin,,2014,South Korea,,
+album,yes,Dark&Wild,,dw_new_member3,,Suga,,2014,South Korea,,o
+album,yes,Dark&Wild,,dw_new_member4,,j-hope,,2014,South Korea,,o
+album,yes,Dark&Wild,,dw_new_member5,,Jimin,,2014,South Korea,,
+album,yes,Dark&Wild,,dw_new_member6,,V,,2014,South Korea,,o
+album,yes,Dark&Wild,,dw_new_member7,,Jung Kook,,2014,South Korea,,
+album,yes,Dark&Wild,,dw_new_group1,,Group 1,,2014,South Korea,,o
+album,yes,Dark&Wild,,dw_new_group2,,Group 2,,2014,South Korea,,o
+album,yes,Dark&Wild,,dw_new_group3,,Group 3,,2014,South Korea,,o
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member1_v1,,RM,,2015,South Korea,square,o
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member2_v1,,Jin,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member3_v1,,Suga,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member4_v1,,j-hope,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member5_v1,,Jimin,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member6_v1,,V,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_member7_v1,,Jung Kook,,2015,South Korea,square,
+album,yes,The Most Beautiful Moment In Life Part 1,"White,Pink",hyyh1_new_group_v1,,Group,,2015,South Korea,landscape,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member1_v1,,RM,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member2_v1,,Jin,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member3_v1,,Suga,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member4_v1,,j-hope,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member5_v1,,Jimin,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member6_v1,,V,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_member7_v1,,Jung Kook,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life Part 2,"Blue,Peach",hyyh2_new_group_v1,,Group,,2015,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member1_v1,,RM,,2016,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member2_v1,,Jin,,2016,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member3_v1,,Suga,,2016,South Korea,portrait,o
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member4_v1,,j-hope,,2016,South Korea,portrait,o
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member5_v1,,Jimin,,2016,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member6_v1,,V,,2016,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_member7_v1,,Jung Kook,,2016,South Korea,portrait,
+album,yes,The Most Beautiful Moment In Life: Young Forever,"Day,Night",hyyh3_new_group_v1,,Group,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member1_v1,,RM,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member2_v1,,Jin,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member3_v1,,Suga,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_old_member4_v1,,j-hope,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member5_v1,,Jimin,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member6_v1,,V,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_member7_v1,,Jung Kook,,2016,South Korea,portrait,
+album,yes,WINGS,"W,I,N,G",wings_new_group_v1,,Group,,2016,South Korea,landscape,o
+album,yes,You Never Walk Alone,"Left,Right",,,RM,,2017,South Korea,portrait,
+album,yes,You Never Walk Alone,"Left,Right",,,Jin,,2017,South Korea,portrait,o
+album,yes,You Never Walk Alone,"Left,Right",,,Suga,,2017,South Korea,portrait,
+album,yes,You Never Walk Alone,"Left,Right",,,j-hope,,2017,South Korea,portrait,
+album,yes,You Never Walk Alone,"Left,Right",,,Jimin,,2017,South Korea,portrait,o
+album,yes,You Never Walk Alone,"Left,Right",,,V,,2017,South Korea,portrait,
+album,yes,You Never Walk Alone,"Left,Right",,,Jung Kook,,2017,South Korea,portrait,
+album,yes,You Never Walk Alone,"Left,Right",,,Group,,2017,South Korea,landscape,
+album,yes,LOVE YOURSELF 承 'Her',,,,Group,,2017,South Korea,landscape,
+album,yes,LOVE YOURSELF 承 'Her',L,,,RM,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',L,,,Jin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',L,,,Suga,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',L,,,j-hope,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',L,,,Jimin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',L,,,V,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',L,,,Jung Kook,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,RM,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,Jin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,Suga,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,j-hope,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,Jimin,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',O,,,V,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',O,,,Jung Kook,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',V,,,RM,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',V,,,Jin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',V,,,Suga,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',V,,,j-hope,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',V,,,Jimin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',V,,,V,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',V,,,Jung Kook,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,RM,,2017,South Korea,portrait,o
+album,yes,LOVE YOURSELF 承 'Her',E,,,Jin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,Suga,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,j-hope,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,Jimin,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,V,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 承 'Her',E,,,Jung Kook,,2017,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',,,,Group,,2018,South Korea,landscape,
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,RM,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,Suga,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,j-hope,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,Jimin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,V,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',Y,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,RM,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,Suga,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,j-hope,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,Jimin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,V,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',O,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,RM,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,Suga,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,j-hope,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,Jimin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,V,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',U,,,Jung Kook,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,RM,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,Suga,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,j-hope,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,Jimin,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,V,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 轉  'Tear',R,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',,,,Group,,2018,South Korea,landscape,
+album,yes,LOVE YOURSELF 結 'Answer',S,,,RM,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',S,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',S,,,Suga,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',S,,,j-hope,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',S,,,Jimin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',S,,,V,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',S,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',E,,,RM,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',E,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',E,,,Suga,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',E,,,j-hope,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',E,,,Jimin,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',E,,,V,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',E,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',L,,,RM,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',L,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',L,,,Suga,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',L,,,j-hope,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',L,,,Jimin,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',L,,,V,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',L,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,RM,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,Jin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,Suga,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,j-hope,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,Jimin,,2018,South Korea,portrait,
+album,yes,LOVE YOURSELF 結 'Answer',F,,,V,,2018,South Korea,portrait,o
+album,yes,LOVE YOURSELF 結 'Answer',F,,,Jung Kook,,2018,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,,,,Group,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,1,,,RM,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,1,,,Jin,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,1,,,Suga,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,1,,,j-hope,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,1,,,Jimin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,1,,,V,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,1,,,Jung Kook,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,2,,,RM,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,2,,,Jin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,2,,,Suga,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,2,,,j-hope,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,2,,,Jimin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,2,,,V,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,2,,,Jung Kook,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,3,,,RM,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,3,,,Jin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,3,,,Suga,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,3,,,j-hope,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,3,,,Jimin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,3,,,V,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,3,,,Jung Kook,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,RM,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,Jin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,Suga,4/12/2019,2019,South Korea,portrait,o
+album,yes,MAP OF THE SOUL: PERSONA,4,,,j-hope,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,Jimin,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,V,4/12/2019,2019,South Korea,portrait,
+album,yes,MAP OF THE SOUL: PERSONA,4,,,Jung Kook,4/12/2019,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,RM,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,Jin,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,Suga,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,j-hope,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,Jimin,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,V,,2019,South Korea,portrait,
+album,no,BTS WORLD,Standard,,,Jung Kook,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,RM,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,Jin,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,Suga,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,j-hope,,2019,South Korea,portrait,o
+album,no,BTS WORLD,Pillow,,,Jimin,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,V,,2019,South Korea,portrait,
+album,no,BTS WORLD,Pillow,,,Jung Kook,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,RM,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,Jin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,Suga,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,j-hope,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,Jimin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,V,,2019,South Korea,portrait,o
+album,no,MAP OF THE SOUL: 7,1,,,Jung Kook,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,1,,,Group,,2019,South Korea,landscape,
+album,no,MAP OF THE SOUL: 7,2,,,RM,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,Jin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,Suga,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,j-hope,,2019,South Korea,portrait,o
+album,no,MAP OF THE SOUL: 7,2,,,Jimin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,V,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,Jung Kook,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,2,,,Group,,2019,South Korea,landscape,
+album,no,MAP OF THE SOUL: 7,3,,,RM,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,Jin,,2019,South Korea,portrait,o
+album,no,MAP OF THE SOUL: 7,3,,,Suga,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,j-hope,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,Jimin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,V,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,Jung Kook,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,3,,,Group,,2019,South Korea,landscape,
+album,no,MAP OF THE SOUL: 7,4,,,RM,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,Jin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,Suga,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,j-hope,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,Jimin,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,V,,2019,South Korea,portrait,
+album,no,MAP OF THE SOUL: 7,4,,,Jung Kook,,2019,South Korea,portrait,o
+album,no,MAP OF THE SOUL: 7,4,,,Group,,2019,South Korea,landscape,
+album,no,BE,Deluxe,,,RM,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,Jin,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,Suga,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,j-hope,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,Jimin,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,V,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,Jung Kook,,2020,South Korea,landscape,o
+album,no,BE,Deluxe,,,Group,,2020,South Korea,landscape,o
+album,no,BE,Essential,,,RM,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,Jin,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,Suga,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,j-hope,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,Jimin,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,V,,2020,South Korea,portrait,o
+album,no,BE,Essential,,,Jung Kook,,2020,South Korea,portrait,o
+album,no,Butter,Peaches,,,RM,,2021,South Korea,,
+album,no,Butter,Peaches,,,Jin,,2021,South Korea,,
+album,no,Butter,Peaches,,,Suga,,2021,South Korea,,
+album,no,Butter,Peaches,,,j-hope,,2021,South Korea,,
+album,no,Butter,Peaches,,,Jimin,,2021,South Korea,,
+album,no,Butter,Peaches,,,V,,2021,South Korea,,
+album,no,Butter,Peaches,,,Jung Kook,,2021,South Korea,,
+album,no,Butter,Peaches,,,Group,,2021,South Korea,,
+album,no,Butter,Cream,,,RM,,2021,South Korea,,
+album,no,Butter,Cream,,,Jin,,2021,South Korea,,
+album,no,Butter,Cream,,,Suga,,2021,South Korea,,
+album,no,Butter,Cream,,,j-hope,,2021,South Korea,,
+album,no,Butter,Cream,,,Jimin,,2021,South Korea,,
+album,no,Butter,Cream,,,V,,2021,South Korea,,
+album,no,Butter,Cream,,,Jung Kook,,2021,South Korea,,
+album,no,Butter,Cream,,,Group,,2021,South Korea,landscape,
+album,no,Proof,Standard,,,RM,,2022,South Korea,,
+album,no,Proof,Standard,,,Jin,,2022,South Korea,,
+album,no,Proof,Standard,,,Suga,,2022,South Korea,,
+album,no,Proof,Standard,,,j-hope,,2022,South Korea,,
+album,no,Proof,Standard,,,Jimin,,2022,South Korea,,
+album,no,Proof,Standard,,,V,,2022,South Korea,,
+album,no,Proof,Standard,,,Jung Kook,,2022,South Korea,,
+album,no,Proof,Standard,,,Group,,2022,South Korea,,
+album,no,Proof,Compact,,,RM,,2022,South Korea,,
+album,no,Proof,Compact,,,Jin,,2022,South Korea,,
+album,no,Proof,Compact,,,Suga,,2022,South Korea,,
+album,no,Proof,Compact,,,j-hope,,2022,South Korea,,
+album,no,Proof,Compact,,,Jimin,,2022,South Korea,,
+album,no,Proof,Compact,,,V,,2022,South Korea,,
+album,no,Proof,Compact,,,Jung Kook,,2022,South Korea,,
+album,no,Proof,Compact,,,Group,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,RM,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,Jin,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,Suga,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,j-hope,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,Jimin,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,V,,2022,South Korea,,
+album,no,Proof,Collector's Edition,,,Jung Kook,,2022,South Korea,,
