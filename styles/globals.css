@@ -42,10 +42,10 @@ button {
   display: grid;
   width: 94%;
   margin: 3%;
-  grid-template-columns: repeat(10, auto [col-start]);
+  grid-template-columns: repeat(10, 1fr);
   column-gap: 0.5%;
   row-gap: 0.5%;
-  justify-items: center;
+  justify-items: stretch;
 }
 
 .firstCard {

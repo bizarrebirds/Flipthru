@@ -13,10 +13,12 @@ const csvFetcher = url => fetch(url)
     var albumToPcs = {};
     array.forEach(elem => {
       const source = elem[2];
-      if (!(source in albumToPcs)) {
-        albumToPcs[source] = [];
+      const version = elem[3];
+      const combined = source + version;
+      if (!(combined in albumToPcs)) {
+        albumToPcs[combined] = [];
       }
-      albumToPcs[source].push(elem);
+      albumToPcs[combined].push(elem);
     })
     return albumToPcs;
   })
@@ -47,7 +49,7 @@ const csvFetcher = url => fetch(url)
               height={85}
             />
             <p className="albumTitle">{source}</p>
-            <p className="albumVersion">{version.replace(',', '/')}</p>
+            <p className="albumVersion">{version.replaceAll(',', '/')}</p>
             <p className="memberName">{member}</p>
           </div>);
       }
