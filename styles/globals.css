@@ -1,5 +1,6 @@
 html,
 body {
+  background-color: rgb(255, 227, 241);
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
@@ -51,19 +52,27 @@ button {
   grid-column-start: 1;
 }
 
+.photoCards {
+  border-radius: 7%;
+  border: 1.5px solid rgb(160, 113, 160);
+}
+
 .cardInfo {
   font-weight: 300;
   text-align: center;
 }
+
 .albumTitle {
   font-weight: 700;
-  font-size: 60%;
+  font-size: 45%;
 }
-.memberName {
-    font-weight: 700;
-    font-size: 45%;
-}
+
 .albumVersion {
   font-weight: 700;
-  font-size: 45%;
+  font-size: 35%;
+}
+
+.memberName {
+    font-weight: 700;
+    font-size: 35%;
 }

@@ -1,20 +1,20 @@
 import '../styles/globals.css'
-import { Assistant } from '@next/font/google'
+import { Karla } from '@next/font/google'
 
-const assistant = Assistant({ subsets: ['latin'] })
+const karla = Karla({ subsets: ['latin'] })
 
 export default function MyApp({ Component, pageProps }) {
     return (
       <>
         <style jsx global>{`
           .cardInfo {
-            font-family: ${assistant.style.fontFamily};
+            font-family: ${karla.style.fontFamily};
           }
           .albumTitle {
-            font-family: ${assistant.style.fontFamily};
+            font-family: ${karla.style.fontFamily};
           }
           .albumTitle {
-              font-family: ${assistant.style.fontFamily};
+              font-family: ${karla.style.fontFamily};
           }
         `}</style>
         <Component {...pageProps} />

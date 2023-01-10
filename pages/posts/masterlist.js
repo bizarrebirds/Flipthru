@@ -41,12 +41,13 @@ const csvFetcher = url => fetch(url)
         html.push(<div className={"cardInfo " + firstClassName} key={pc}>
             <Image
               src="/images/default.png"
+              className="photoCards"
               alt="Default"
               width={55}
               height={85}
             />
             <p className="albumTitle">{source}</p>
-            <p className="albumVersion">{version}</p>
+            <p className="albumVersion">{version.replace(',', '/')}</p>
             <p className="memberName">{member}</p>
           </div>);
       }
