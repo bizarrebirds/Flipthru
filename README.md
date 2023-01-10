@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is an interactive reference site for BTS photocard collectors. The masterlist is comprised of images and metadata that allow users to identify the cards they have in their collection and, eventually, log those "owned" cards in a virtual binder layout.
