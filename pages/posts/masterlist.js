@@ -48,7 +48,6 @@ const csvFetcher = url => fetch(url)
               width={55}
               height={85}
             />
-            <p className="albumTitle">{source}</p>
             <p className="albumVersion">{version.replaceAll(',', '/')}</p>
             <p className="memberName">{member}</p>
           </div>);
