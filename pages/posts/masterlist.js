@@ -71,6 +71,12 @@ function FirstPost(props) {
       <h1>Photocard Masterlist</h1>
       <h2>
         <p><Link href="/">Home</Link></p>
+        <body>
+        <div class="search-wrapper">
+            <label for="search">Search Photocards</label>
+            <input type="search" id="search"></input>
+        </div>
+        </body>
         <div className="container">
           {data}
         </div>
