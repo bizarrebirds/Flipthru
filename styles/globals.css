@@ -55,6 +55,8 @@ button {
 .photoCards {
   border-radius: 7%;
   border: 1.5px solid rgb(160, 113, 160);
+  height: auto;
+  width: 70%;
 }
 
 .cardInfo {
@@ -75,6 +77,7 @@ button {
 .albumVersion {
   font-weight: 700;
   font-size: 50%;
+  
 }
 
 .memberName {
