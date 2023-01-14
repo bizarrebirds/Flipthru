@@ -13,9 +13,6 @@ export default function MyApp({ Component, pageProps }) {
           .albumTitle {
             font-family: ${karla.style.fontFamily};
           }
-          .albumTitle {
-              font-family: ${karla.style.fontFamily};
-          }
         `}</style>
         <Component {...pageProps} />
       </>

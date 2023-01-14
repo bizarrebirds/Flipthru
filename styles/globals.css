@@ -62,15 +62,19 @@ button {
   text-align: center;
 }
 
+.albumHeader {
+  grid-column-start: 1;
+  grid-column-end: -1;
+}
+
 .albumTitle {
   font-weight: 700;
-  font-size: 45%;
-  grid-column-start: 1;
+  font-size: 75%;
 }
 
 .albumVersion {
   font-weight: 700;
-  font-size: 35%;
+  font-size: 50%;
 }
 
 .memberName {

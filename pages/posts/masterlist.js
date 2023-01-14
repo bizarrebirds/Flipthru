@@ -26,7 +26,11 @@ const csvFetcher = url => fetch(url)
     console.log(albumToPcs);
     var html = [];
     for (const [album, pcs] of Object.entries(albumToPcs)) {
-      html.push(<p className="albumTitle">{pcs[0][2]}</p>);
+      html.push(
+      <div className="albumHeader">
+        <p className="albumTitle">{pcs[0][2]}</p>
+        <p className="albumVersion">{pcs[0][3]}</p>
+      </div>);
       for (const [i, pc] of Object.entries(pcs)) {
         const type = pc[0];
         const press = pc[1];
@@ -49,7 +53,6 @@ const csvFetcher = url => fetch(url)
               width={55}
               height={85}
             />
-            <p className="albumVersion">{version.replaceAll(',', '/')}</p>
             <p className="memberName">{member}</p>
           </div>);
       }
