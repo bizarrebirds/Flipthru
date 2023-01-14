@@ -26,6 +26,7 @@ const csvFetcher = url => fetch(url)
     console.log(albumToPcs);
     var html = [];
     for (const [album, pcs] of Object.entries(albumToPcs)) {
+      html.push(<p className="albumTitle">{pcs[0][2]}</p>);
       for (const [i, pc] of Object.entries(pcs)) {
         const type = pc[0];
         const press = pc[1];
@@ -71,12 +72,10 @@ function FirstPost(props) {
       <h1>Photocard Masterlist</h1>
       <h2>
         <p><Link href="/">Home</Link></p>
-        <body>
         <div class="search-wrapper">
             <label for="search">Search Photocards</label>
             <input type="search" id="search"></input>
         </div>
-        </body>
         <div className="container">
           {data}
         </div>

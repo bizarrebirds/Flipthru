@@ -65,6 +65,7 @@ button {
 .albumTitle {
   font-weight: 700;
   font-size: 45%;
+  grid-column-start: 1;
 }
 
 .albumVersion {
